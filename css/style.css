@@ -43,16 +43,17 @@ main {
   width: 100%;
   height: 100%;
   display: grid;
-  place-content: center;
+  align-items: center;
   font-family: var(--font);
 }
 
 section{
   background-color: var(--dark-blue);
   padding: 25px;
-  margin: 15px;
+  margin: 15px auto;
   max-width: 325px;
   border-radius: 15px;
+  box-sizing: border-box;
 }
 
 .star{
@@ -106,9 +107,13 @@ h1 {
   background-color: var(--orange);
 }
 
+.avaliation-container label {
+  text-align: center;
+}
+
 .check-number {
   position: absolute;
-  transform: translateX(15px) translateY(-28px);
+  transform: translateY(-28px) translateX(-3px);
   pointer-events: none;
 }
 
