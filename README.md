@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://swaveng.github.io/interactive-rating-component-main/](https://swaveng.github.io/interactive-rating-component-main/)
+- Live Site URL: [https://ngemir.github.io/interactive-rating-component-main/](https://ngemir.github.io/interactive-rating-component-main/)
 
 ## My process
 
